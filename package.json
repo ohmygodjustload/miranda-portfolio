@@ -12,6 +12,7 @@
     "@hookform/resolvers": "^5.2.2",
     "@sanity/image-url": "^1.2.0",
     "@sanity/vision": "^4.22.0",
+    "@vercel/analytics": "^2.0.1",
     "clsx": "^2.1.1",
     "framer-motion": "^12.38.0",
     "lucide-react": "^0.577.0",
@@ -21,7 +22,6 @@
     "react-dom": "19.2.3",
     "react-hook-form": "^7.71.2",
     "resend": "^6.9.4",
-    "styled-components": "^6.3.11",
     "tailwind-merge": "^3.5.0",
     "zod": "^4.3.6"
   },
