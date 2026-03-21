@@ -1,0 +1,10 @@
+| Week | What you build |
+|---|---|
+| 1 | Supabase tables, Clerk auth, admin dashboard, create/delete/rename pages |
+| 2 | `[slug]` public route + Navbar auto-populating from DB |
+| 3 | Builder shell — dnd-kit section reordering, add/remove sections |
+| 4 | Hero, ImageText, Text section editors + renderers |
+| 5 | CardGrid, Gallery editors + image uploads to Supabase storage |
+| 6 | Video, Resume, Contact section + Resend email |
+| 7 | Theme editor — fonts, colors, spacing → CSS variables on public site |
+| 8 | Real content, mobile polish, Framer Motion, SEO, launch |

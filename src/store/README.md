@@ -1,0 +1,1 @@
+Zustand - sections[], selectedSection, isDirty

@@ -1,1 +1,1 @@
-Nav, Footer, PageWrapper
+Nav, Footer

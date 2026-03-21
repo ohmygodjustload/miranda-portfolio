@@ -1,1 +1,1 @@
-Atomic: Button, Card, Modal, Badge
+Button, Card, Modal, Input, ColorPicker
